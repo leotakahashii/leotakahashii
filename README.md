@@ -15,8 +15,6 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
- 
-/>
 <img 
     allign="left" 
     alt="JavaScript" 
@@ -56,10 +54,10 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
 <a href="https://www.linkedin.com/in/leonardotakahashi/">
 <img
     width="24px"
-    src="https://github.com/user-attachments/assets/2c5d66a0-c66f-4170-9aa7-86f39289a69e" alt="linkedin-logo" />
+    src="https://github.com/user-attachments/assets/2c5d66a0-c66f-4170-9aa7-86f39289a69e" alt="linkedin-logo"
 />
 </a>
-
+<br/>
 ### 📊 Estatísticas
 
 <p>
