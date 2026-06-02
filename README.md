@@ -63,7 +63,7 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
 <a href="https://www.linkedin.com/in/leonardotakahashi/">
 <img
     allign="left"
-    style="padding-right: 20px;"
+    style="padding-right: 40px;"
     width="24px"
     src="https://github.com/user-attachments/assets/2c5d66a0-c66f-4170-9aa7-86f39289a69e" alt="linkedin-logo"
 />
