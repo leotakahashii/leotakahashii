@@ -15,6 +15,14 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+<img
+    alling="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/80c3c41d-0fd4-4770-afe9-26d9bc1fef81"
+    />
 <img 
     allign="left" 
     alt="JavaScript" 
