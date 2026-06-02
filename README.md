@@ -3,10 +3,8 @@
 **Desenvolvedor Front End**
 
 Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente estou cursando Ciência da Computação e sou um grande entusiasta da tecnologia, aqui no meu perfil pretendo compartilhar meus projetos e aprendizados.
----
 
 ### 💻 Linguagens e Tecnologias
-
 <img 
     allign="left" 
     alt="HTML"
@@ -68,5 +66,3 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
     src="https://github.com/user-attachments/assets/2c5d66a0-c66f-4170-9aa7-86f39289a69e" alt="linkedin-logo"
 />
 </a>
-<br/>
-<br/>
