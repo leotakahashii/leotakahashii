@@ -51,6 +51,7 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
 <br/>
 
 ### 📱 Redes Sociais
+<br/>
 <a href="https://www.instagram.com/leotakahashii/">
 <img 
     width="24px"
@@ -58,7 +59,6 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
     src="https://github.com/user-attachments/assets/322174cc-5ddc-470e-bb58-34d4d650641a" alt="instagram-logo"
  /> 
 </a> 
-
 <a href="https://www.linkedin.com/in/leonardotakahashi/">
 <img
     width="24px"
@@ -66,21 +66,4 @@ Me chamo Leonardo Takahashi, tenho 26 anos e moro no Rio de Janeiro. Atualmente 
 />
 </a>
 <br/>
-### 📊 Estatísticas
-
-<p>
-  <img 
-    allign="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leotakahashii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      allign="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotakahashii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<br/>
