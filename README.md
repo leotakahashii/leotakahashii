@@ -41,11 +41,8 @@ Aqui compartilho os projetos que construo ao longo dessa jornada — de landing 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Leo's Sky** | Dashboard de clima com a OpenWeather API, design glassmorphism e histórico de buscas | JS, API REST, CSS |
-| **CSS Generator** | Gerador de CSS com IA (Groq/Llama), com validação, loading states e tratamento de erros | JS, Groq API |
-
-> <a href="https://github.com/leotakahashii/Dashboard-de-Clima">
-> <a href="https://github.com/leotakahashii/I.A-de-Arquivo-CSS">
+| **[Leo's Sky](https://github.com/leotakahashii/Dashboard-de-Clima)** | Dashboard de clima com a OpenWeather API, design glassmorphism e histórico de buscas | JS, API REST, CSS |
+| **[CSS Generator](https://github.com/leotakahashii/I.A-de-Arquivo-CSS)** | Gerador de CSS com IA (Groq/Llama), com validação, loading states e tratamento de erros | JS, Groq API |
 
 ---
 
