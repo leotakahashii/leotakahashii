@@ -35,8 +35,6 @@ Aqui compartilho os projetos que construo ao longo dessa jornada — de landing 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotakahashii&layout=compact&hide_border=true&bg_color=0D1117&title_color=FB923C&text_color=E5E7EB" alt="Top Languages"/>
 </p>
 
-> ⚠️ Troque `leonardotakahashi` pelo seu **username real do GitHub** nos dois links acima (se for diferente) para os cards puxarem seus dados certos.
-
 ---
 
 ### 🚀 Projetos em destaque
@@ -56,7 +54,7 @@ Aqui compartilho os projetos que construo ao longo dessa jornada — de landing 
   <a href="https://www.instagram.com/leotakahashii/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/leonardotakahashi/" target="_blank">
+  <a href="https://www.linkedin.com/in/leotakahashii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
