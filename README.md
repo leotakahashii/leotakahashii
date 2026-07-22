@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>
-<h3 align="center">Desenvolvedor Front-End em formação | Ciência da Computação</h3>
+<h3 align="center">Desenvolvedor web em formação | Ciência da Computação</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FB923C&center=true&vCenter=true&width=500&lines=Transi%C3%A7%C3%A3o+de+carreira%3A+gastronomia+%E2%86%92+tecnologia;Full+Stack+Formation+%40+DevClub;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
