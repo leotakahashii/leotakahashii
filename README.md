@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Leonardo 👋</h1>
-<h3 align="center">Desenvolvedor web em formação | Ciência da Computação</h3>
+<h3 align="center">Desenvolvedor Front-End em formação | Ciência da Computação</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FB923C&center=true&vCenter=true&width=500&lines=Transi%C3%A7%C3%A3o+de+carreira%3A+gastronomia+%E2%86%92+tecnologia;Full+Stack+Formation+%40+DevClub;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -31,8 +31,8 @@ Aqui compartilho os projetos que construo ao longo dessa jornada — de landing 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leotakahashii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FB923C&icon_color=FB923C&text_color=E5E7EB" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotakahashii&layout=compact&hide_border=true&bg_color=0D1117&title_color=FB923C&text_color=E5E7EB" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-gamma-two-55.vercel.app/api?username=leotakahashii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FB923C&icon_color=FB923C&text_color=E5E7EB" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-gamma-two-55.vercel.app/api/top-langs/?username=leotakahashii&layout=compact&hide_border=true&bg_color=0D1117&title_color=FB923C&text_color=E5E7EB" alt="Top Languages"/>
 </p>
 
 ---
