@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-Tenho 26 anos, moro no Rio de Janeiro e estou em transição de carreira: depois de um tempo trabalhando com gastronomia, decidi seguir tecnologia como objetivo de longo prazo. Hoje curso **Ciência da Computação** e a **Formação Full Stack da DevClub** (HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Java e IA aplicada ao desenvolvimento).
+Tenho 26 anos, moro no Rio de Janeiro e estou em transição de carreira: depois de um tempo trabalhando com gastronomia, decidi seguir tecnologia como objetivo de longo prazo. Hoje curso **Ciência da Computação** e uma **Formação Full Stack em paralelo ** (HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Java e IA aplicada ao desenvolvimento).
 
 Atualmente estou aprofundando conhecimentos em **back-end com Java e Spring Boot**, construindo APIs REST com PostgreSQL e explorando modelagem de relacionamentos entre entidades.
 
